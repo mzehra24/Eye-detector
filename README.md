@@ -11,6 +11,3 @@ Real-time eye detection from webcam using OpenCV and Haar Cascade Classifier.
 - Python 3.x
 - OpenCV (`cv2`)
 
-## Setup & Usage
-1. Clone the repository:
-
